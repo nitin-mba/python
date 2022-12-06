@@ -1,3 +1,3 @@
 
-def areaofSquare(side):
+def area(side):
     return (side*side)
