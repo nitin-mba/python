@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 13:19:36 2022
-
-@author: Deepak
-"""
-
 def factI(n):
     result = 1
     while n > 1:
